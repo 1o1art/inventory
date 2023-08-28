@@ -1,6 +1,6 @@
 {
   "name": "zlootledger-inventory",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "LootLedger Inventory",
   "scripts": {
     "localChain": "hardhat node",
