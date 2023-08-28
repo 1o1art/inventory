@@ -6,8 +6,6 @@
     "localChain": "hardhat node",
     "clean": "hardhat clean",
     "compile": "hardhat compile",
-    "release": "./scripts/release/release.sh",
-    "release:dry": "./scripts/release/release.sh --dry-run",
     "compile:zkSync": "hardhat compile --network zkSyncTestnet --force",
     "accounts": "hardhat accounts",
     "generate": "hardhat generate",
